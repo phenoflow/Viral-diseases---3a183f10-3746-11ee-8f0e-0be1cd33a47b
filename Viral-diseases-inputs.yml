@@ -1,0 +1,111 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-enteritis---secondary.py
+inputModule3:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-agent---secondary.py
+inputModule4:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-simplex---secondary.py
+inputModule6:
+  class: File
+  path: python/anogenital-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule7:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-poliomyelitis---secondary.py
+inputModule8:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-encephalitis---secondary.py
+inputModule9:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule10:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-rabies---secondary.py
+inputModule11:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-mosquitoborne---secondary.py
+inputModule12:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-meningitis---secondary.py
+inputModule13:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-system---secondary.py
+inputModule14:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-dengue---secondary.py
+inputModule15:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-arthropodborne---secondary.py
+inputModule16:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-fever---secondary.py
+inputModule17:
+  class: File
+  path: python/haemorrhagic-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule18:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-zoster---secondary.py
+inputModule19:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-measles---secondary.py
+inputModule20:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-rubella---secondary.py
+inputModule21:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-lesion---secondary.py
+inputModule22:
+  class: File
+  path: python/acute-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule23:
+  class: File
+  path: python/other-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule24:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-resulting---secondary.py
+inputModule25:
+  class: File
+  path: python/cytomegaloviral-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule26:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-mumps---secondary.py
+inputModule27:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-sequelae---secondary.py
+inputModule28:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-herpe---secondary.py
+inputModule29:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-otitis---secondary.py
+inputModule30:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-classified---secondary.py
+inputModule31:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-identified---secondary.py
+inputModule32:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-pneumonia---secondary.py
+inputModule33:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-bronchiolitis---secondary.py
+inputModule34:
+  class: File
+  path: python/syncytial-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule35:
+  class: File
+  path: python/viral-diseases-excl-chronic-hepatitishiv-arthritis---secondary.py
+inputModule36:
+  class: File
+  path: python/congenital-viral-diseases-excl-chronic-hepatitishiv---secondary.py
+inputModule37:
+  class: File
+  path: python/output-cases.py
